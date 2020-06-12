@@ -1,4 +1,4 @@
-# SpotifyAnalysisPrediction
+# Spotify Analysis Prediction
 # *Analysis music on Spotify and predictions of preferences*
 
 #### Data comes from https://www.kaggle.com/geomack/spotifyclassification
